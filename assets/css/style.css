@@ -14,7 +14,6 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #000000;
-  padding: 20px;
   font-family: Arial, sans-serif;
 }
 
@@ -91,20 +90,6 @@ footer {
     height: 90%;
     max-width: 400px;
     max-height: 400px;
-  }
-
-  .profile-image {
-    width: 150px;
-    height: 150px;
-    margin-bottom: 10px;
-  }
-
-  .title {
-    font-size: 20px;
-  }
-
-  .description {
-    font-size: 14px;
   }
 }
 
